@@ -280,6 +280,7 @@ natija = baholarni_hisobla(o_quvchi_ismi, fan_baholari)
 print(natija)
 ```
 
+
 ---
 
 ## **Xulosa**
